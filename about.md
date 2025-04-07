@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 <div style="text-align: center;">
-  <img src="{{site.baseurl}}/assets/img/avatar.png" alt="shellbreaker avatar" style="border-radius: 50%; width: 160px; box-shadow: 0 4px 12px rgba(0,0,0,0.6);" />
+  <img src="/assets/img/shellbreaker.jpg" alt="shellbreaker avatar" style="border-radius: 50%; width: 160px; box-shadow: 0 4px 12px rgba(0,0,0,0.6);" />
 </div>
 
 # 👋 About Me
