@@ -45,8 +45,6 @@ But I didn’t back down. Brute Logic reminded me that **XSS can bypass CSRF pro
 
 I’m all about knowledge sharing and helping others level up. Follow my journey as I dive into this ever-evolving field. Remember: even small bugs can lead to big break-ins.
 
-👉 [Read the original post on InfoSec Writeups](https://infosecwriteups.com/duplicate-csrf-leads-to-26c1ddc71dc5)
-
 ---
 
 If you enjoyed this post and want to support my work, consider buying me a coffee ☕️  
