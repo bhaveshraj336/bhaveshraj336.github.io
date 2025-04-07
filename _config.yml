@@ -5,7 +5,7 @@ author:
   email: "bhaveshrajpurohit336@gmail.com"
   url: "https://bhaveshraj336.github.io"
 
-baseurl: "/shellbreaker" # Leave empty for GitHub Pages
+baseurl: "" # Leave empty for GitHub Pages
 url: "https://bhaveshraj336.github.io" # Your GitHub Pages site URL
 
 source: .
