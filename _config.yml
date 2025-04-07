@@ -1,0 +1,43 @@
+title: Bhavesh Rajpurohit (shellbreaker)
+description: "Offensive Security • Bug Bounty • OSCP (in progress)"
+author:
+  name: "Bhavesh Rajpurohit"
+  email: "bhaveshrajpurohit336@gmail.com"
+  url: "https://shellbreaker.github.io"
+
+baseurl: "" # Leave empty for GitHub Pages
+url: "https://bhaveshraj336.github.io" # Your GitHub Pages site URL
+
+source: .
+destination: ./_site
+permalink: /:title
+paginate: 5
+paginate_path: /page/:num/
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+future: true
+plugins:
+  - jekyll-seo-tag
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# Custom variables
+owner: "Shellbreaker"
+year: "2025"
+
+# Optional social links (can be added in footer manually)
+social_links:
+  github: "https://github.com/shellbreaker"
+  twitter: "https://twitter.com/shellbreaker"
+  linkedin: "https://linkedin.com/in/bhaveshrajpurohit"
+  hackerone: "https://hackerone.com/shellbreaker"
+  bugcrowd: "https://bugcrowd.com/shellbreaker"
+  intigriti: "https://app.intigriti.com/profile/shellbreaker"
+
