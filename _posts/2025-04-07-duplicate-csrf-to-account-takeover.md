@@ -48,6 +48,6 @@ I’m all about knowledge sharing and helping others level up. Follow my journey
 ---
 
 If you enjoyed this post and want to support my work, consider buying me a coffee ☕️  
-**[www.buymeacoffee.com](https://www.buymeacoffee.com)**
+**[👉 Buy Me a Coffee](https://buymeacoffee.com/shellbreaker)**
 
 Follow me as **Shellbreaker** on HackerOne, Bugcrowd, and Intigriti!
