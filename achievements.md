@@ -18,14 +18,14 @@ Issued by: SecOps Group
 
 ---
 
-### <img src="/assets/ejpt-logo.png" alt="EJPT Certificate" width="50"> eJPT — eLearnSecurity Junior Penetration Tester  
+### <img src="/assets/ejpt-logo.png" alt="EJPT Certificate" width="80"> eJPT — eLearnSecurity Junior Penetration Tester  
 Issued by: INE  
 ✅ Focus: Networking, web app attacks, basic exploitation  
 🔗 [View Certificate](https://certs.ine.com/4bb2d27e-6d55-483e-a268-f4b680cfc868#acc.q3UkzPow)
 
 ---
 
-### <img src="/assets/ewptx-logo.png" alt="EWPTX Certificate" width="50"> eWPTX — eLearnSecurity Web App Penetration Tester eXtreme  
+### <img src="/assets/ewptx-logo.png" alt="EWPTX Certificate" width="80"> eWPTX — eLearnSecurity Web App Penetration Tester eXtreme  
 Issued by: INE  
 ✅ Focus: Advanced web app pentesting, bypass techniques, WAF evasion  
 🔗 [View Certificate](https://certs.ine.com/8b21947a-faa4-4394-be96-61e30414e423#acc.PzLYaJxV)
