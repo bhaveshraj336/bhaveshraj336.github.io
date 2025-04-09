@@ -12,27 +12,27 @@ A snapshot of my journey in cybersecurity — from certifications to technical s
 
 ## 🛡️ Certifications
 
-### ![CAPEN](assets/capen-logo.png) CAPEN — Certified Application Penetration Testing Expert  
+### <img src="/assets/capen-logo.png" alt="CAPEN Certificate" width="50"> CAPEN — Certified Application Penetration Testing Expert  
 Issued by: SecOps Group  
 ✅ Focus: Web application security, real-world pentesting methodology 
 
 ---
 
-### ![eJPT](assets/ejpt-logo.png) eJPT — eLearnSecurity Junior Penetration Tester  
+### <img src="/assets/ejpt-logo.png" alt="EJPT Certificate" width="50"> eJPT — eLearnSecurity Junior Penetration Tester  
 Issued by: INE  
 ✅ Focus: Networking, web app attacks, basic exploitation  
 🔗 [View Certificate](https://certs.ine.com/4bb2d27e-6d55-483e-a268-f4b680cfc868#acc.q3UkzPow)
 
 ---
 
-### ![eWPTX](assets/ewptx-logo.png) eWPTX — eLearnSecurity Web App Penetration Tester eXtreme  
+### <img src="/assets/ewptx-logo.png" alt="EWPTX Certificate" width="50"> eWPTX — eLearnSecurity Web App Penetration Tester eXtreme  
 Issued by: INE  
 ✅ Focus: Advanced web app pentesting, bypass techniques, WAF evasion  
 🔗 [View Certificate](https://certs.ine.com/8b21947a-faa4-4394-be96-61e30414e423#acc.PzLYaJxV)
 
 ---
 
-### <img src="/assets/ibm-logo.png" alt="CAPEN Certificate" width="50"> eWPTX — eLearnSecurity Web App Penetration Tester eXtreme  
+### <img src="/assets/ibm-logo.png" alt="IBM Certificate" width="50"> IBM — Cyber Security & Forensics Graduate  
 Issued by: IBM  
 ✅ Focus: Cybersecurity fundamentals, digital forensics, and secure system design  
 🔗 [View Certificate](https://www.credly.com/badges/06f2d298-2f2b-4b43-92b1-395b61d7034b/linked_in_profile)
