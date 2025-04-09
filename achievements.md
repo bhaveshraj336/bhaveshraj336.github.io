@@ -18,7 +18,7 @@ Issued by: SecOps Group
 
 ---
 
-### <img src="/assets/ejpt-logo.png" alt="EJPT Certificate" width="80"> eJPT — eLearnSecurity Junior Penetration Tester  
+### <img src="/assets/ejpt-logo.png" alt="EJPT Certificate" width="100" height="100"> eJPT — eLearnSecurity Junior Penetration Tester  
 Issued by: INE  
 ✅ Focus: Networking, web app attacks, basic exploitation  
 🔗 [View Certificate](https://certs.ine.com/4bb2d27e-6d55-483e-a268-f4b680cfc868#acc.q3UkzPow)
