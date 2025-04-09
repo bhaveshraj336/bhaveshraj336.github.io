@@ -32,7 +32,7 @@ Issued by: INE
 
 ---
 
-### <img src="/assets/ibm-logo.png" alt="IBM Badge" width="20"> Cyber Security & Forensics Graduate  
+### ![IBM](/assets/ibm-logo.png){: .cert-img } eWPTX — eLearnSecurity Web App Penetration Tester eXtreme  
 Issued by: IBM  
 ✅ Focus: Cybersecurity fundamentals, digital forensics, and secure system design  
 🔗 [View Certificate](https://www.credly.com/badges/06f2d298-2f2b-4b43-92b1-395b61d7034b/linked_in_profile)
