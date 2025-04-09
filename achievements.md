@@ -32,7 +32,7 @@ Issued by: INE
 
 ---
 
-### ![IBM](assets/ibm-logo.png) Cyber Security & Forensics Graduate  
+### ![IBM](/assets/ibm-logo.png) Cyber Security & Forensics Graduate  
 Issued by: IBM  
 ✅ Focus: Cybersecurity fundamentals, digital forensics, and secure system design  
 🔗 [View Certificate](https://www.credly.com/badges/06f2d298-2f2b-4b43-92b1-395b61d7034b/linked_in_profile)
