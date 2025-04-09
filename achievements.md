@@ -48,8 +48,8 @@ Issued by: IBM
 - Business Logic Bugs
 
 ### 🧰 **Tools & Techniques**
-- Burp Suite, Nmap, FFUF, Postman, Intercepting Proxies
-- JWT attacks, Regex fuzzing, SSRF chains
+- Burp Suite, Nmap, FFUF, Postman
+- JWT attacks,SSRF chains
 - Recon: Subfinder, Amass, Shodan, gau, httpx, nuclei
 
 ### 🌐 **Cloud & DevSecOps**
@@ -63,7 +63,6 @@ Issued by: IBM
 ### 🔧 **Other Skills**
 - Writing professional pentest reports
 - Vulnerability triage and PoC creation
-- Browser extension reverse engineering
 - Secure development best practices
 
 ---
@@ -78,8 +77,7 @@ Issued by: IBM
 
 ## 🎯 Goals Ahead
 
-- OSCP (in progress)  
-- Tooling: Automating Broken Access Control detection  
+- OSCP (in progress)   
 - Expand expertise in Cloud & Kubernetes Security
 
 ---
